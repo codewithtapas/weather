@@ -1,0 +1,31 @@
+body{
+    background-color: darkgrey;
+}
+.containner{
+    padding: 20px;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+h2{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+}li{
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkblue;
+}h4{
+    font-family: monospace;
+    font-size: x-large;
+    text-transform: capitalize;
+}
+.navbar-brand{
+    color: yellowgreen;
+}.nav-link {
+    color: yellowgreen;
+}
+.nav-link dropdown-toggle{
+    color: yellowgreen;
+}

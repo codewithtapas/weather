@@ -1,4 +1,4 @@
-# Prediction of CBR Strength of Clay Soil Stabilized with Stone Dust Using XGBoost(TAPAS)
+# Prediction of CBR Strength of Clay Soil Stabilized with Stone Dust Using XGBoost
 Project Overview
 
 This project predicts the California Bearing Ratio (CBR) strength of clay soil stabilized with stone dust using the XGBoost Machine Learning algorithm.

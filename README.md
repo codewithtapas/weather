@@ -46,7 +46,8 @@ CBR-Prediction/
 Results
 Actual vs Predicted Values
 
-(Add your image here)
+<img width="2076" height="1708" alt="actual_vs_predicted" src="https://github.com/user-attachments/assets/c3627656-885e-4bb3-be13-d78c376355f7" />
+
 
 Correlation Matrix
 

@@ -51,11 +51,13 @@ Actual vs Predicted Values
 
 Correlation Matrix
 
-(Add your image here)
+<img width="2264" height="1764" alt="correlation_matrix" src="https://github.com/user-attachments/assets/6431e475-536d-4a68-a799-efc77bfbcebb" />
+
 
 Feature Importance
 
-(Add your image here)
+<img width="2646" height="1638" alt="feature_importance" src="https://github.com/user-attachments/assets/e781887a-bb2a-468e-bd6c-4c7719e284b3" />
+
 
 Installation
 git clone <repository-url>
@@ -73,18 +75,6 @@ Tapas Mohanty
 M.Tech in Data Science
 IMIT
 
-3. Add Images in README
-
-Since you already have:
-
-actual_vs_predicted.png
-correlation_matrix.png
-feature_importance.png
-
-You can display them in README:
-
-
-
 
 Content:
 
@@ -95,6 +85,5 @@ seaborn
 scikit-learn
 xgboost
 
-This helps others install dependencies easily.
 
 
